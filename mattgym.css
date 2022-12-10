@@ -1,0 +1,145 @@
+body{   /* Setup for the background*/
+	background-color: #1b6272;
+	width: 100%;
+	height: auto;
+	padding: 0;
+    margin: 0;
+}
+.header img{    /* Dumbell on the header*/
+	float: left;
+	width: 200px;
+	height: 125px;
+	background: #9bccdb;
+	padding-left: 75px;
+	padding-top: 15px;
+	vertical-align: middle;
+	horizontal-align: middle;
+}
+header a{   /* Removes the hyperlink bar on the header*/
+	text-decoration: none;
+	text-color: black;
+}
+.header h1{ /* "Matt's Gym"*/
+	font-family: Arial Black;
+	font-size: 125px;
+	background-color: #9bccdb;
+	font-color: #FFFFFF;
+	text-align: center;
+	margin-bottom: 0;
+	margin-top: 3%;
+}
+h2{
+	font-size: 50px;
+}
+h3{
+	font-size: 25px;
+}
+.right{ /* Background and formatting for column 2*/
+	font-family: arial;
+	background-color: #daeef2;
+	text-align: center;
+	padding-top: 20px;
+	font-size: 20px;
+	overflow: auto;
+}
+#nav{
+	float: left;
+	width: 100%;
+	background-color: #9bccdb;
+}
+#wrapper{
+	width: 95%;
+	margin-right: auto;
+	margin-left: auto;
+	height: 100px;
+}
+.box{   /* Formatting for NAV*/
+	text-decoration: none;
+	list-style-type: none;
+	font-size: 20px;
+	text-align: center;
+	padding-left: 5px;
+	height: 100%;
+}
+nav a{  /* Formatting for NAV*/
+	text-decoration: none;
+	padding: 30px;
+	display: block;
+	border-bottom: 1px solid white;
+    list-style-type: none;
+    border-bottom: 1px solid white;
+}
+.footer {   /* Footer placement under page*/
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #1b6272;
+    color: white;
+    text-align: center;
+    font-size: 10px;
+    padding-left: 100px;
+}
+.rightp{ /* Basic formatting for pictures in the right column*/
+	float: right;
+	padding-right: 50px;
+	padding-left: 20px;
+    freight: 100%;
+}
+a{  /* Keeps hyperlinks black*/
+	color:black
+}
+.columnleft{    /* Formatting for the left column on the "Coaching" page*/
+	float:left;
+	width: 40%;
+	padding-left: 50px;
+	padding-top: 20px;
+}
+.columnright{   /* Formatting for the right column on the "Coaching" page*/
+	float:right;
+	width: 40%;
+    padding-top: 20px;
+    padding-right: 50px
+}
+.left{ /* Left NAV column formatting*/
+    float: left;
+    width: 20%;
+    height: 675px;
+    padding-top: 50px;
+    background-color: #9bccdb;
+	display: block;
+    }
+.right{ /* Right DIV column formatting*/
+    width: 80%;
+    height: 705px;
+}
+ul {    /* Formatting for NAV and DIV lists*/
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  font-size: 20px;
+  font-family: arial;
+  font strong
+}
+.coaching1{ /* Left side picture on the 'Coaching' page*/
+float: left;
+padding-left: 100px;
+}
+.coaching2{ /* Right side picture on the 'Coaching' page*/
+float: right;
+padding-right: 100px;
+}
+.homep{  /* Paragraph on 'Home' page*/
+    text-align: center;
+    font-size: 28px;
+    vertical-align: middle;
+    padding-right: 200px
+    padding-left: 200px;
+    padding-top: 80px;
+    font-weight: bold;
+}
+.padding{
+    padding-left: 36px;
+    padding-right: 36px;
+}
